@@ -1,0 +1,4 @@
+django==1.9.6
+djangorestframework==3.3.3
+pygments==2.2.0
+httpie==0.9.9
